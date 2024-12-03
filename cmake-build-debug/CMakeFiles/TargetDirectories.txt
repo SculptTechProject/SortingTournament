@@ -1,0 +1,3 @@
+/Users/matioszkea/CLionProjects/AlgorithmCompetitionM3/cmake-build-debug/CMakeFiles/AlgorithmCompetitionM3.dir
+/Users/matioszkea/CLionProjects/AlgorithmCompetitionM3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matioszkea/CLionProjects/AlgorithmCompetitionM3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
