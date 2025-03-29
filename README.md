@@ -1,4 +1,5 @@
 # SortingTournament
+### Testy przeprowadzone na: Macbook M3
 ### Który algorytm będzie szybszy dla danej sytuacji?
 ## Wyniki:
 <img width="986" alt="Screenshot 2024-12-03 at 13 20 45" src="https://github.com/user-attachments/assets/14c2a3b5-4ec0-488e-9321-05241d1a783a">
